@@ -1,3 +1,9 @@
 beautiful will move there promptly 
+<<<<<<< HEAD
 hellooo
 .
+=======
+conflict line ahhhhhhh
+fight fight fight
+fixed
+>>>>>>> b33dfadba4239800812278da7dbc78dc3c97dbfc
